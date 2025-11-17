@@ -1,7 +1,7 @@
 <?php
 /**
  * Main entry point - for Plesk with Document Root at domain root
- * This file should be at the domain root (discord.xm.ivao.aero/)
+ * This file should be at the domain root (discord.(your-division).ivao.aero/)
  */
 
 // Error reporting - set to false in production

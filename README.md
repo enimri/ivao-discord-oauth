@@ -80,7 +80,7 @@ cd ivao-discord-auth
 ### 2. Frontend Setup
 
 1. **Copy files to your web server:**
-   - Upload all files to your domain root (e.g., `discord.xm.ivao.aero/`)
+   - Upload all files to your domain root (e.g., `discord.(your-division).ivao.aero/`)
    - Ensure `index.php` is in the document root
 
 2. **Configure environment variables:**
@@ -107,10 +107,10 @@ cd ivao-discord-auth
    DISCORD_GUILD_ID=your_discord_guild_id
 
    # Application Configuration
-   REDIRECT_URI=https://discord.xm.ivao.aero/
+   REDIRECT_URI=https://discord.(your-division).ivao.aero/
    DIV=XM
    COUNTRY=Middle East
-   DIVISION_URL=https://xm.ivao.aero
+   DIVISION_URL=https://(your-division).ivao.aero
    ```
 
 3. **Set file permissions:**
