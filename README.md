@@ -179,11 +179,20 @@ cd ivao-discord-auth
    ```
 
 5. **Run the bot:**
+   
+   **Option 1: Run directly:**
    ```bash
    python -m src.bot.main
    ```
    
-   Or use the startup script:
+   **Option 2: Run in background with screen (recommended for production):**
+   ```bash
+   screen -dmS discord python3.9 -m src.bot.main
+   ```
+   To reattach to the screen session: `screen -r discord`
+   To detach from screen: Press `Ctrl+A` then `D`
+   
+   **Option 3: Use the startup script:**
    ```bash
    chmod +x start.sh
    ./start.sh
