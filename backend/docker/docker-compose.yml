@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  bot:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    container_name: ivao-discord-bot
+    restart: unless-stopped
+    env_file:
+      - ../.env
+    volumes:
+      - ../logs:/app/logs
+      - ../locales:/app/locales
+    networks:
+      - bot-network
+
+networks:
+  bot-network:
+    driver: bridge
+

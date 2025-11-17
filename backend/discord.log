@@ -1,0 +1,52 @@
+[Mon, 17 Nov 2025 16:38:07] INFO [main.py.main:83] Starting bot (debug=False)
+[Mon, 17 Nov 2025 16:38:07] INFO [pool.py.create_pool:50] Database connection pool created successfully
+[Mon, 17 Nov 2025 16:38:07] INFO [client.py.login:603] logging in using static token
+[Mon, 17 Nov 2025 16:38:07] INFO [main.py.status_report_task:30] Status report service is disabled
+[Mon, 17 Nov 2025 16:38:07] INFO [client.py.load_extensions:56] Loaded extension: src.cogs.auth
+[Mon, 17 Nov 2025 16:38:08] INFO [gateway.py.received_message:561] Shard ID None has connected to Gateway (Session ID: f5bf512298391b8a0dcbe9dbc539745a).
+[Mon, 17 Nov 2025 16:38:10] INFO [client.py.on_ready:64] Bot is ready!
+[Mon, 17 Nov 2025 16:38:10] INFO [client.py.on_ready:65] Logged in as IVAO XM#4848 (ID: 1268278702182105252)
+[Mon, 17 Nov 2025 16:38:10] INFO [auth.py.on_ready:40] Auth cog loaded
+[Mon, 17 Nov 2025 16:38:10] INFO [client.py.on_ready:70] Synced 3 command(s)
+[Mon, 17 Nov 2025 16:42:25] INFO [auth.py.staffauth:93] enimri/326057993525395456 used staffauth on snoo.wyy/1324027690214494261
+[Mon, 17 Nov 2025 16:43:03] INFO [auth.py.refreshtokens:145] Refreshtokens: Searching for member 'snoo.wyy' (ID: 1324027690214494261, Display: 'Clover Smith | 744759')
+[Mon, 17 Nov 2025 16:43:03] INFO [auth.py.refreshtokens:159] Refreshtokens: Discord ID lookup found 1 user(s)
+[Mon, 17 Nov 2025 16:43:04] INFO [auth.py.refreshtokens:350] Token refresh completed: 1 successful, 0 failed out of 1 total
+[Mon, 17 Nov 2025 16:44:05] INFO [auth.py.staffauth:93] enimri/326057993525395456 used staffauth on mustafameteab_78835/1156981060513566832
+[Mon, 17 Nov 2025 16:44:30] INFO [auth.py.refreshtokens:145] Refreshtokens: Searching for member 'kasper92_iq' (ID: 400020386747777035, Display: 'Mustafa - 645017')
+[Mon, 17 Nov 2025 16:44:30] INFO [auth.py.refreshtokens:159] Refreshtokens: Discord ID lookup found 0 user(s)
+[Mon, 17 Nov 2025 16:44:30] INFO [auth.py.refreshtokens:190] Refreshtokens: Discord username 'kasper92_iq' lookup found 0 user(s)
+[Mon, 17 Nov 2025 16:44:30] INFO [auth.py.refreshtokens:211] Refreshtokens: Name lookup 'Mustafa - 645017' found 0 user(s)
+[Mon, 17 Nov 2025 16:44:30] WARNING [auth.py.refreshtokens:253] Refreshtokens: No users found matching the criteria. Could not find user in database by Discord ID (400020386747777035), Discord username (kasper92_iq), display name, or VID.
+[Mon, 17 Nov 2025 17:38:58] INFO [gateway.py.received_message:566] Shard ID None has successfully RESUMED session f5bf512298391b8a0dcbe9dbc539745a.
+[Mon, 17 Nov 2025 21:25:29] INFO [main.py.main:83] Starting bot (debug=False)
+[Mon, 17 Nov 2025 21:25:29] INFO [pool.py.create_pool:50] Database connection pool created successfully
+[Mon, 17 Nov 2025 21:25:29] INFO [client.py.login:603] logging in using static token
+[Mon, 17 Nov 2025 21:25:29] INFO [main.py.status_report_task:30] Status report service is disabled
+[Mon, 17 Nov 2025 21:25:29] INFO [client.py.load_extensions:56] Loaded extension: src.cogs.auth
+[Mon, 17 Nov 2025 21:25:30] INFO [gateway.py.received_message:561] Shard ID None has connected to Gateway (Session ID: 7a8079f08641f490885b96d6fd855f4f).
+[Mon, 17 Nov 2025 21:25:32] INFO [client.py.on_ready:64] Bot is ready!
+[Mon, 17 Nov 2025 21:25:32] INFO [client.py.on_ready:65] Logged in as IVAO XM#4848 (ID: 1268278702182105252)
+[Mon, 17 Nov 2025 21:25:32] INFO [auth.py.on_ready:40] Auth cog loaded
+[Mon, 17 Nov 2025 21:25:33] INFO [client.py.on_ready:70] Synced 3 command(s)
+[Mon, 17 Nov 2025 21:25:37] INFO [pool.py.close_pool:61] Database connection pool closed
+[Mon, 17 Nov 2025 21:26:23] INFO [main.py.main:83] Starting bot (debug=False)
+[Mon, 17 Nov 2025 21:26:23] INFO [pool.py.create_pool:50] Database connection pool created successfully
+[Mon, 17 Nov 2025 21:26:23] INFO [client.py.login:603] logging in using static token
+[Mon, 17 Nov 2025 21:26:23] INFO [main.py.status_report_task:30] Status report service is disabled
+[Mon, 17 Nov 2025 21:26:24] INFO [client.py.load_extensions:56] Loaded extension: src.cogs.auth
+[Mon, 17 Nov 2025 21:26:24] INFO [gateway.py.received_message:561] Shard ID None has connected to Gateway (Session ID: 564cb4c58ed1188e5313b772ab736b30).
+[Mon, 17 Nov 2025 21:26:26] INFO [client.py.on_ready:64] Bot is ready!
+[Mon, 17 Nov 2025 21:26:26] INFO [client.py.on_ready:65] Logged in as IVAO XM#4848 (ID: 1268278702182105252)
+[Mon, 17 Nov 2025 21:26:26] INFO [auth.py.on_ready:40] Auth cog loaded
+[Mon, 17 Nov 2025 21:26:27] INFO [client.py.on_ready:70] Synced 3 command(s)
+[Mon, 17 Nov 2025 21:38:11] INFO [main.py.main:83] Starting bot (debug=False)
+[Mon, 17 Nov 2025 21:38:11] INFO [pool.py.create_pool:50] Database connection pool created successfully
+[Mon, 17 Nov 2025 21:38:11] INFO [client.py.login:603] logging in using static token
+[Mon, 17 Nov 2025 21:38:11] INFO [main.py.status_report_task:30] Status report service is disabled
+[Mon, 17 Nov 2025 21:38:11] INFO [client.py.load_extensions:56] Loaded extension: src.cogs.auth
+[Mon, 17 Nov 2025 21:38:12] INFO [gateway.py.received_message:561] Shard ID None has connected to Gateway (Session ID: ba042efd6790f223ad23459dfc41070f).
+[Mon, 17 Nov 2025 21:38:14] INFO [client.py.on_ready:64] Bot is ready!
+[Mon, 17 Nov 2025 21:38:14] INFO [client.py.on_ready:65] Logged in as IVAO XM#4848 (ID: 1268278702182105252)
+[Mon, 17 Nov 2025 21:38:14] INFO [auth.py.on_ready:40] Auth cog loaded
+[Mon, 17 Nov 2025 21:38:14] INFO [client.py.on_ready:70] Synced 3 command(s)

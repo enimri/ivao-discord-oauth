@@ -1,0 +1,2 @@
+"""Bot cogs (extensions)."""
+
